@@ -1,6 +1,6 @@
 # Backend Repository for SlidelyAI - Soham Ghadge
 
-This repository contains the backend code for [Your Project Name].
+This repository contains the backend code for the Windows form app.
 
 ## Installation
 
